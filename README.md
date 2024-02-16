@@ -23,7 +23,6 @@ You can find more about MTA-STS here:
 - https://www.security.gov.uk/guidance/email-guidance/mta-sts/
 - https://www.ncsc.gov.uk/collection/email-security-and-anti-spoofing/using-mta-sts-to-protect-the-privacy-of-your-emails
 
-## Example deployments
+## Other example deployments
 - <https://github.com/co-cddo/mta-sts.gc3.security.gov.uk>
 - <https://github.com/co-cddo/mta-sts.digital.cabinet-office.gov.uk>
-- <https://github.com/co-cddo/mta-sts.cabinetoffice.gov.uk>
